@@ -1,0 +1,17 @@
+# Web Framework
+Flask==3.0.2
+
+# Security & Password Hashing
+Werkzeug==3.0.1
+
+# Network Requests (for Telegram & External APIs)
+requests==2.31.0
+
+# LLM & AI Integration (Optional but recommended for the mindblowing logic)
+openai==1.12.0
+
+# Environment Variables management
+python-dotenv==1.0.1
+
+# Production Server (For higher security and performance)
+gunicorn==21.2.0
